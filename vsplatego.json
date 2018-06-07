@@ -1,0 +1,5 @@
+{
+	"img":"vsplate\/centos_apache2_php5_mysql5:latest",
+	"save_dir":"\/var\/www\/html\/",
+	"mysql_pwd":"toor"
+}
